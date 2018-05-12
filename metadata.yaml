@@ -1,10 +1,16 @@
 _repo: Health-How-to-get-it-and-keep-it-The-hygiene-of-dress-food-exercise-rest-bathing-breathing-an__49279
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49279-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Woods, Walter V.
     gutenberg_agent_id: '45239'
     url: http://www.gutenberg.org/2009/agents/45239
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49279#Health-How-to-get-it-and-keep-it-The-hygiene-of-dress-food-exercise-rest-bathing-breathing-an_
 gutenberg_issued: '2015-06-25'
 gutenberg_type: Text
 identifiers:
